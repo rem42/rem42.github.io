@@ -16,13 +16,13 @@ h1 {
     font-size: 1.25rem;
     font-weight: 300; }
 
-h3 {
+h2 {
   position: relative;
   padding-left: 1rem;
   font-size: 1.125rem;
   letter-spacing: 0.15rem;
   color: #54B689; }
-  h3:before {
+  h2:before {
     content: "";
     display: inline-block;
     width: 5px;
@@ -32,7 +32,7 @@ h3 {
     left: 0;
     top: 0; }
 
-h4 {
+h3 {
   font-size: 1rem; }
 
 a {
