@@ -1,3 +1,0 @@
-Sitemap: https://remy.ovh/sitemap.xml
-User-agent:*
-Disallow:
