@@ -974,6 +974,11 @@
       margin-top: calc(var(--spacing) * 0);
     }
   }
+  .print\:mt-8 {
+    @media print {
+      margin-top: calc(var(--spacing) * 8);
+    }
+  }
   .print\:mb-0 {
     @media print {
       margin-bottom: calc(var(--spacing) * 0);
